@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/DVuyGPsB.js";import{f as p,b as t}from"../chunks/wyJcyOZU.js";var a=p("<h1>どうやらここには何もないようです・・・</h1>");function f(o){var r=a();t(o,r)}export{f as component};
